@@ -1,0 +1,20 @@
+.image {
+	width: 120px;
+}
+.ph1 {
+	font-size: 16px;
+	font-weight:600;
+	font-family: Arial;
+}
+p 	{
+	font-size: 14px;
+	font-weight: 400;
+	font-family: Arial;
+	margin-bottom: 40px
+	text-align: right;
+}
+.podp {
+	font-size: 16;
+	font-weight: 600;
+	text-align: right;
+}
